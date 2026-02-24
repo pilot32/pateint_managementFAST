@@ -178,3 +178,9 @@ def delete_patient(patient_id: str):
         "message": f"Patient {patient_id} deleted successfully",
         "deleted_data": deleted_patient
     }
+
+
+
+
+
+
